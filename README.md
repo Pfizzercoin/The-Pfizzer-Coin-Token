@@ -46,4 +46,4 @@ Tokenomics:
 2% Marketing fee sent to 
 1 trillion Total Supply.
 0.9 trillion Max Burn.
-40 million max transaction
+40 million max transaction```
